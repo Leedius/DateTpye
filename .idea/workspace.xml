@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09268c60-6e5c-42b9-9305-762f84cc4d1e" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DateTpye.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/문제.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/상수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/연산자01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자료형01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자료형02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/연산자02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/연산자03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/연산자01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/연산자01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Leedius" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -44,7 +42,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/dev/workspace/DateTpye"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -56,6 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1673926270614</updated>
     </task>
+    <task id="LOCAL-00001" summary="#DataTpye">
+      <created>1673939674962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673939674962</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="#DataTpye" />
+    <option name="LAST_COMMIT_MESSAGE" value="#DataTpye" />
   </component>
 </project>
